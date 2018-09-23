@@ -28,7 +28,7 @@ load('Target.mat', 'SMTarget');
 load('Input.mat', 'SMInput', 'NDVIInput');
 
 
-[inputs, target] = complie_training_data(SMInput, NDVIInput, SMTarget);
+[inputs, target] = compile_training_data(SMInput, NDVIInput, SMTarget);
 clear SMInput NDVIInput SMTarget 
 
 
