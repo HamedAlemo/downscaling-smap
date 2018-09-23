@@ -6,7 +6,7 @@
 % Details of the methodology is described in the following paper:
 %
 %
-Alemohammad, S. H., Kolassa, J., Prigent, C., Aires, F., and Gentine, P.: 
+% Alemohammad, S. H., Kolassa, J., Prigent, C., Aires, F., and Gentine, P.: 
 % Global Downscaling of Remotely-Sensed Soil Moisture using Neural 
 % Networks, Hydrol. Earth Syst. Sci. Discuss., 
 % https://doi.org/10.5194/hess-2017-680, in review, 2018.
